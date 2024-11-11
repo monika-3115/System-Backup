@@ -32,6 +32,6 @@ Some commands to run the above code:
 
 
 -> for list of backuped files:
-   ** sudo bksys -l**
+   **sudo bksys -l**
     
 ![WhatsApp Image 2024-11-08 at 17 24 03_5b0a692d](https://github.com/user-attachments/assets/f656edf9-7c2d-41cd-ab13-c6da8db2877f)
